@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace MvvmTest.VM
+namespace MvvmTest.MVM
 {
 	class MainModel : ViewModelBase, IMainModel
 	{

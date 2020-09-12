@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel;
 
-namespace MvvmTest.VM
+namespace MvvmTest.MVM
 {
 	public interface IMainModel : INotifyPropertyChanged, INotifyDataErrorInfo
 	{

@@ -4,7 +4,7 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:MvvmTest.Views"
-		xmlns:vm="clr-namespace:MvvmTest.VM;assembly=MvvmTest.VM"
+		xmlns:vm="clr-namespace:MvvmTest.MVM;assembly=MvvmTest.MVM"
         mc:Ignorable="d"
         Title="Main" SizeToContent="WidthAndHeight">
 

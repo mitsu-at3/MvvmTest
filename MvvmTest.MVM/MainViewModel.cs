@@ -7,7 +7,7 @@ using System.Runtime.CompilerServices;
 using System.Text;
 using System.Windows.Input;
 
-namespace MvvmTest.VM
+namespace MvvmTest.MVM
 {
 	public class MainViewModel : ViewModelBase
 	{

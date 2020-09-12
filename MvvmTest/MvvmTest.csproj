@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MvvmTest.VM\MvvmTest.VM.csproj" />
+    <ProjectReference Include="..\MvvmTest.MVM\MvvmTest.MVM.csproj" />
   </ItemGroup>
 
 </Project>
